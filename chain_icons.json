@@ -389,6 +389,12 @@
     "format": "png"
   }]
 }, {
+  "name": "kardiachain",
+  "icons": [{
+    "url": "ipfs://QmXoHaZXJevc59GuzEgBhwRSH6kio1agMRvL8bD93pARRV",
+    "format": "png"
+  }]
+}, {
   "name": "kaiba",
   "icons": [{
     "url": "ipfs://bafybeihbsw3ky7yf6llpww6fabo4dicotcgwjpefscoxrppstjx25dvtea",
