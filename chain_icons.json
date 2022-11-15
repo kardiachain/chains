@@ -63,11 +63,27 @@
     "format": "png"
   }]
 }, {
+  "name": "nebula",
+  "icons": [{
+    "url": "ipfs://QmfQkfmQuoUUUKwF1yCcrPEzFcWLaqNyiSv5YMcSj6zs74",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "phiv2",
   "icons": [{
     "url": "ipfs://bafkreid6pm3mic7izp3a6zlfwhhe7etd276bjfsq2xash6a4s2vmcdf65a",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "siriusnet",
+  "icons": [{
+    "url": "ipfs://bafybeifp6dbzrzrpsgtsxvlbffhxgtdlvbmmsbvlmk2ukeakjhu5ug4ycy",
+    "width": 500,
+    "height": 500,
     "format": "png"
   }]
 }, {
@@ -172,6 +188,14 @@
     "url": "ipfs://QmWsoME6LCghQTpGYf7EnUojaDdYo7kfkWVjE6VvNtkjwy",
     "width": 500,
     "height": 500,
+    "format": "png"
+  }]
+}, {
+  "name": "debounce",
+  "icons": [{
+    "url": "ipfs://bafybeib5q4hez37s7b2fx4hqt2q4ji2tuudxjhfdgnp6q3d5mqm6wsxdfq",
+    "width": 256,
+    "height": 256,
     "format": "png"
   }]
 }, {
@@ -284,6 +308,14 @@
     "url": "ipfs://QmW3CT4SHmso5dRJdsjR8GL1qmt79HkdAebCn2uNaWXFYh",
     "width": 256,
     "height": 257,
+    "format": "png"
+  }]
+}, {
+  "name": "imversed",
+  "icons": [{
+    "url": "ipfs://QmYwvmJZ1bgTdiZUKXk4SifTpTj286CkZjMCshUyJuBFH1",
+    "width": 400,
+    "height": 400,
     "format": "png"
   }]
 }, {
@@ -579,11 +611,27 @@
     "format": "png"
   }]
 }, {
+  "name": "moac",
+  "icons": [{
+    "url": "ipfs://QmYtTFPFzmBJY671VD6HQADu2sKpV1nJa9Kda9LbMvSCn9",
+    "width": 326,
+    "height": 324,
+    "format": "png"
+  }]
+}, {
   "name": "bronos",
   "icons": [{
     "url": "ipfs://bafybeifkgtmhnq4sxu6jn22i7ass7aih6ubodr77k6ygtu4tjbvpmkw2ga",
     "width": 500,
     "height": 500,
+    "format": "png"
+  }]
+}, {
+  "name": "doken",
+  "icons": [{
+    "url": "ipfs://bafkreifms4eio6v56oyeemnnu5luq3sc44hptan225lr45itgzu3u372iu",
+    "width": 200,
+    "height": 200,
     "format": "png"
   }]
 }, {
@@ -768,6 +816,14 @@
     "url": "ipfs://QmPLMg5mYD8XRknvYbDkD2x7FXxYan7MPTeUWZC2CihwDM",
     "width": 2048,
     "height": 2048,
+    "format": "png"
+  }]
+}, {
+  "name": "any",
+  "icons": [{
+    "url": "ipfs://QmaARJiAQUn4Z6wG8GLEry3kTeBB3k6RfHzSZU9SPhBgcG",
+    "width": 200,
+    "height": 200,
     "format": "png"
   }]
 }, {
@@ -961,6 +1017,14 @@
     "format": "png"
   }]
 }, {
+  "name": "shuffle",
+  "icons": [{
+    "url": "ipfs://bafkreidvjcc73v747lqlyrhgbnkvkdepdvepo6baj6hmjsmjtvdyhmzzmq",
+    "width": 1000,
+    "height": 1206,
+    "format": "png"
+  }]
+}, {
   "name": "dithereum",
   "icons": [{
     "url": "ipfs://QmSHN5GtRGpMMpszSn1hF47ZSLRLqrLxWsQ48YYdJPyjLf",
@@ -1022,6 +1086,14 @@
     "url": "ipfs://QmYiLMeKDXMSNuQmtxNdxm53xR588pcRXMf7zuiZLjQnc6",
     "width": 1501,
     "height": 1501,
+    "format": "png"
+  }]
+}, {
+  "name": "memo",
+  "icons": [{
+    "url": "ipfs://bafkreig52paynhccs4o5ew6f7mk3xoqu2bqtitmfvlgnwarh2pm33gbdrq",
+    "width": 128,
+    "height": 128,
     "format": "png"
   }]
 }, {

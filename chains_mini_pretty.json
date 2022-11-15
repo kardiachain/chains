@@ -1637,6 +1637,19 @@
   "faucets": [],
   "infoURL": "https://xdaichain.com"
 }, {
+  "name": "MOAC testnet",
+  "chainId": 201,
+  "shortName": "moactest",
+  "networkId": 201,
+  "nativeCurrency": {
+    "name": "MOAC",
+    "symbol": "mc",
+    "decimals": 18
+  },
+  "rpc": ["http://gateway.moac.io/testnet"],
+  "faucets": [],
+  "infoURL": "https://moac.io"
+}, {
   "name": "Freight Trust Network",
   "chainId": 211,
   "shortName": "EDI",
@@ -1724,7 +1737,7 @@
     "symbol": "OAS",
     "decimals": 18
   },
-  "rpc": ["https://rpc-mainnet.oasys.games"],
+  "rpc": ["https://rpc.mainnet.oasys.games"],
   "faucets": [],
   "infoURL": "https://oasys.games"
 }, {
@@ -1848,14 +1861,14 @@
   "name": "KCC Mainnet",
   "chainId": 321,
   "shortName": "kcs",
-  "networkId": 1,
+  "networkId": 321,
   "nativeCurrency": {
     "name": "KuCoin Token",
     "symbol": "KCS",
     "decimals": 18
   },
-  "rpc": ["https://rpc-mainnet.kcc.network", "wss://rpc-ws-mainnet.kcc.network"],
-  "faucets": [],
+  "rpc": ["https://rpc-mainnet.kcc.network", "https://kcc.mytokenpocket.vip", "https://public-rpc.blockpi.io/http/kcc"],
+  "faucets": ["https://faucet.kcc.io/", "https://free-online-app.com/faucet-for-eth-evm-chains/"],
   "infoURL": "https://kcc.io"
 }, {
   "name": "KCC Testnet",
@@ -1867,7 +1880,7 @@
     "symbol": "tKCS",
     "decimals": 18
   },
-  "rpc": ["https://rpc-testnet.kcc.network", "wss://rpc-ws-testnet.kcc.network"],
+  "rpc": ["https://rpc-testnet.kcc.network"],
   "faucets": ["https://faucet-testnet.kcc.network"],
   "infoURL": "https://scan-testnet.kcc.network"
 }, {
@@ -2638,6 +2651,19 @@
   "faucets": [],
   "infoURL": "https://www.topnetwork.org/"
 }, {
+  "name": "Memo Smart Chain Mainnet",
+  "chainId": 985,
+  "shortName": "memochain",
+  "networkId": 985,
+  "nativeCurrency": {
+    "name": "Memo",
+    "symbol": "CMEMO",
+    "decimals": 18
+  },
+  "rpc": ["https://chain.metamemo.one:8501", "wss://chain.metamemo.one:16801"],
+  "faucets": ["https://faucet.metamemo.one/"],
+  "infoURL": "www.memolabs.org"
+}, {
   "name": "TOP Mainnet",
   "chainId": 989,
   "shortName": "top",
@@ -2858,6 +2884,19 @@
   "rpc": ["https://andromeda.metis.io/?owner=1088"],
   "faucets": [],
   "infoURL": "https://www.metis.io"
+}, {
+  "name": "MOAC mainnet",
+  "chainId": 1099,
+  "shortName": "moac",
+  "networkId": 1099,
+  "nativeCurrency": {
+    "name": "MOAC",
+    "symbol": "mc",
+    "decimals": 18
+  },
+  "rpc": ["http://gateway.moac.io/mainnet"],
+  "faucets": [],
+  "infoURL": "https://moac.io"
 }, {
   "name": "WEMIX3.0 Mainnet",
   "chainId": 1111,
@@ -3132,6 +3171,19 @@
   "faucets": [],
   "infoURL": "https://boba.network"
 }, {
+  "name": "Dos Fuji Subnet",
+  "chainId": 1311,
+  "shortName": "DOS",
+  "networkId": 1311,
+  "nativeCurrency": {
+    "name": "Dos Native Token",
+    "symbol": "DOS",
+    "decimals": 18
+  },
+  "rpc": ["https://test.doschain.com/jsonrpc"],
+  "faucets": [],
+  "infoURL": "http://doschain.io/"
+}, {
   "name": "Aitd Mainnet",
   "chainId": 1319,
   "shortName": "aitd",
@@ -3170,6 +3222,19 @@
   "rpc": ["http://127.0.0.1:8545"],
   "faucets": [],
   "infoURL": "https://geth.ethereum.org"
+}, {
+  "name": "Polygon zkEVM Testnet",
+  "chainId": 1402,
+  "shortName": "zkevmtest",
+  "networkId": 1402,
+  "nativeCurrency": {
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.public.zkevm-test.net"],
+  "faucets": [],
+  "infoURL": "https://polygon.technology/solutions/polygon-zkevm/"
 }, {
   "name": "Sherpax Mainnet",
   "chainId": 1506,
@@ -3261,6 +3326,19 @@
   "rpc": ["https://rpc.ludan.org/"],
   "faucets": [],
   "infoURL": "https://www.ludan.org/"
+}, {
+  "name": "Anytype EVM Chain",
+  "chainId": 1701,
+  "shortName": "AnytypeChain",
+  "networkId": 1701,
+  "nativeCurrency": {
+    "name": "ANY",
+    "symbol": "ANY",
+    "decimals": 18
+  },
+  "rpc": ["https://geth.anytype.io"],
+  "faucets": ["https://evm.anytype.io/faucet"],
+  "infoURL": "https://evm.anytype.io"
 }, {
   "name": "TBSI Mainnet",
   "chainId": 1707,
@@ -3808,6 +3886,19 @@
   "faucets": [],
   "infoURL": "https://filecoin.io"
 }, {
+  "name": "Debounce Subnet Testnet",
+  "chainId": 3306,
+  "shortName": "debounce-devnet",
+  "networkId": 3306,
+  "nativeCurrency": {
+    "name": "Debounce Network",
+    "symbol": "DB",
+    "decimals": 18
+  },
+  "rpc": ["https://dev-rpc.debounce.network"],
+  "faucets": [],
+  "infoURL": "https://debounce.network"
+}, {
   "name": "ZCore Testnet",
   "chainId": 3331,
   "shortName": "zcrbeach",
@@ -3885,6 +3976,19 @@
   "rpc": ["https://rpc.jfinchain.com"],
   "faucets": [],
   "infoURL": "https://jfinchain.com"
+}, {
+  "name": "Metacodechain",
+  "chainId": 3666,
+  "shortName": "metacode",
+  "networkId": 3666,
+  "nativeCurrency": {
+    "name": "J",
+    "symbol": "J",
+    "decimals": 18
+  },
+  "rpc": ["https://j.blockcoach.com:8503"],
+  "faucets": [],
+  "infoURL": "https://j.blockcoach.com:8089"
 }, {
   "name": "Bittex Mainnet",
   "chainId": 3690,
@@ -4354,7 +4458,7 @@
   "faucets": [],
   "infoURL": "https://mdgl.io"
 }, {
-  "name": "Shardeum Liberty 1.5",
+  "name": "Shardeum Liberty 1.6",
   "chainId": 8080,
   "shortName": "Liberty10",
   "networkId": 8080,
@@ -4480,7 +4584,7 @@
     "symbol": "ALPH",
     "decimals": 18
   },
-  "rpc": ["https://rpc.alph.network"],
+  "rpc": ["https://rpc.alph.network", "wss://rpc.alph.network"],
   "faucets": [],
   "infoURL": "https://alph.network"
 }, {
@@ -4896,7 +5000,7 @@
     "symbol": "FITFI",
     "decimals": 18
   },
-  "rpc": ["https://testnet.rpc.step.network"],
+  "rpc": ["https://rpc.testnet.step.network"],
   "faucets": ["https://faucet.step.network"],
   "infoURL": "https://step.network"
 }, {
@@ -5550,6 +5654,19 @@
   "faucets": ["https://www.thinkiumdev.net/faucet"],
   "infoURL": "https://thinkium.net/"
 }, {
+  "name": "DoKEN Super Chain Mainnet",
+  "chainId": 61916,
+  "shortName": "DoKEN",
+  "networkId": 61916,
+  "nativeCurrency": {
+    "name": "DoKEN",
+    "symbol": "DKN",
+    "decimals": 18
+  },
+  "rpc": ["https://sgrpc.doken.dev", "https://nyrpc.doken.dev", "https://ukrpc.doken.dev"],
+  "faucets": [],
+  "infoURL": "https://doken.dev/"
+}, {
   "name": "Celo Baklava Testnet",
   "chainId": 62320,
   "shortName": "BKLV",
@@ -5601,6 +5718,19 @@
   "rpc": ["https://rpc.tst.ecredits.com"],
   "faucets": ["https://faucet.tst.ecredits.com"],
   "infoURL": "https://ecredits.com"
+}, {
+  "name": "SiriusNet",
+  "chainId": 67390,
+  "shortName": "mcl",
+  "networkId": 67390,
+  "nativeCurrency": {
+    "name": "MCD",
+    "symbol": "MCD",
+    "decimals": 18
+  },
+  "rpc": ["https://u0tnafcv6j:o2T045sxuCNXL878RDQLp5__Zj-es2cvdjtgkl4etn0@u0v7kwtvtg-u0wj114sve-rpc.us0-aws.kaleido.io/"],
+  "faucets": [],
+  "infoURL": "https://macaucasinolisboa.xyz"
 }, {
   "name": "Condrieu",
   "chainId": 69420,
@@ -6733,6 +6863,32 @@
   "faucets": ["https://faucet.butterfly.fildev.network"],
   "infoURL": "https://filecoin.io"
 }, {
+  "name": "Imversed Canary",
+  "chainId": 5555555,
+  "shortName": "imversed",
+  "networkId": 5555555,
+  "nativeCurrency": {
+    "name": "Imversed Token",
+    "symbol": "IMV",
+    "decimals": 18
+  },
+  "rpc": ["https://jsonrpc-endpoint-canary.imversed.com"],
+  "faucets": [],
+  "infoURL": "https://imversed.com"
+}, {
+  "name": "Imversed Testnet",
+  "chainId": 5555558,
+  "shortName": "imversed-testnet",
+  "networkId": 5555558,
+  "nativeCurrency": {
+    "name": "Imversed Token",
+    "symbol": "IMV",
+    "decimals": 18
+  },
+  "rpc": ["https://jsonrpc-endpoint-test.imversed.com"],
+  "faucets": [],
+  "infoURL": "https://imversed.com"
+}, {
   "name": "Musicoin",
   "chainId": 7762959,
   "shortName": "music",
@@ -7032,6 +7188,19 @@
   "faucets": [],
   "infoURL": "https://gather.network"
 }, {
+  "name": "Nebula Staging",
+  "chainId": 503129905,
+  "shortName": "nebula-staging",
+  "networkId": 503129905,
+  "nativeCurrency": {
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
+  },
+  "rpc": ["https://staging-v3.skalenodes.com/v1/staging-faint-slimy-achird", "wss://staging-v3.skalenodes.com/v1/ws/staging-faint-slimy-achird"],
+  "faucets": [],
+  "infoURL": "https://nebulachain.io/"
+}, {
   "name": "IPOS Network",
   "chainId": 1122334455,
   "shortName": "ipos",
@@ -7083,6 +7252,19 @@
   "rpc": ["https://betanet.aurora.dev/"],
   "faucets": [],
   "infoURL": "https://aurora.dev"
+}, {
+  "name": "Nebula Mainnet",
+  "chainId": 1482601649,
+  "shortName": "nebula-mainnet",
+  "networkId": 1482601649,
+  "nativeCurrency": {
+    "name": "sFUEL",
+    "symbol": "sFUEL",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.skalenodes.com/v1/green-giddy-denebola", "wss://mainnet-proxy.skalenodes.com/v1/ws/green-giddy-denebola"],
+  "faucets": [],
+  "infoURL": "https://nebulachain.io/"
 }, {
   "name": "Harmony Mainnet Shard 0",
   "chainId": 1666600000,
